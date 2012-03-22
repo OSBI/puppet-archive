@@ -10,7 +10,7 @@
   "checksums": {
     "Modulefile": "6410c8b52993532ae768d4ea5fd286b9",
     "README": "3642a7b589081eefa189f753e0855925",
-    "manifests/download.pp": "9f94c91e0d47cd160fef5986a484e4f2",
+    "manifests/download.pp": "27fd9f87f08718b2926458ea3358a0bc",
     "manifests/extract.pp": "67f6faf87c5ade22cdb4daecf0c4a569",
     "manifests/init.pp": "34ddd78503199a92d65c4f757c56cc68",
     "manifests/tar-gz.pp": "b5be6abbf6117ced47a607c44cb32bba",
